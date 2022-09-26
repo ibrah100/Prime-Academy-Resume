@@ -1,0 +1,16 @@
+* {
+    background-color: #1F1E1E;
+    color: white;
+    font-family: monospace;   
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.info {
+  text-align: center;
+}
+
